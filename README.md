@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anubhav-Ghosh1
+- 👋 Hi, I’m @Anubhav-Ghosh
 - 👀 I’m interested in building startup and cp
 - 🌱 I’m currently learning c++,html
 - 💞️ I’m looking to collaborate on cp
