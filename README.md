@@ -13,6 +13,14 @@
 
 - 📫 How to reach me **iamanubhav11@gmail.com**
 
+<br>
+<a href="https://www.linkedin.com/in/anubhav-ghosh11"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&style=flat&logoColor=white"></a>
+<a href="mailto:iamanubhav11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&style=flat&logoColor=white"></a>
+<a href="https://www.instagram.com/guywhocodess"><img src="https://img.shields.io/badge/guywhocodes-%23E4405F.svg?style=for-the-badge&logo=Instagram&style=flat&logoColor=white"/></a>
+<br>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/guywhocodess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guywhocodess" height="30" width="40" /></a>
