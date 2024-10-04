@@ -2,7 +2,7 @@
 <h3 align="center">Hey I like to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-ghosh1&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-ghosh1" /> </p>
-
+<p align="left"><img src= https://wakatime.com/badge/user/bca10067-bc72-4c76-85b6-fa7dc9c5f4f6.svg/> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhav-ghosh1" alt="anubhav-ghosh1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/guywhocodess" target="blank"><img src="https://img.shields.io/twitter/follow/guywhocodess?logo=twitter&style=for-the-badge" alt="guywhocodess" /></a> </p>
